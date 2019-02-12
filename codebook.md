@@ -2,7 +2,7 @@ Dataset description
 Identifiers
 "activity": The type of activity
 "subject": The subject ID
-Activity column has 6 types as listed below.
+Activity column has 6 types.
 WALKING
 WALKING_UPSTAIRS
 WALKING_DOWNSTAIRS
